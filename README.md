@@ -22,3 +22,15 @@ This branch uses MongoDB 4.4, MongoDB Node.js Driver 3.6.4, and Node.js 14.15.4.
 ## Questions?
 
 Questions about this repo or how to use MongoDB and Node.js together?  Ask them in the [MongoDB Community](https://community.mongodb.com).
+
+
+Here is a summary of what the video covers:
+
+How to connect to a MongoDB database hosted on MongoDB Atlas from inside of a Node.js script (01:00)
+How MongoDB stores data in documents and collections (instead of rows and tables) (08:22)
+How to create documents using insertOne() and insertMany() (11:47)
+How to read documents using findOne() and find() (17:16)
+How to update documents using updateOne() with and without upsert as well as updateMany() (24:46​)
+How to delete documents using deleteOne() and deleteMany() (35:58)
+
+https://www.mongodb.com/developer/quickstart/node-crud-tutorial/
